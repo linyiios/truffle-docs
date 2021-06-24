@@ -234,7 +234,7 @@ Solidity编译器设置， 支持 `solc` 的优化器（optimizer）设置。
 可以指定...
 + [solc-bin](http://solc-bin.ethereum.org/bin/list.json) 上列出的所有的 solc-js 版本，需要的话，可以指定一个，Truffle 会自动获取它。
 + 一个原生编译的 solc （需要自己安装，下面的链接帮助）。
-+ [这里](https://hub.docker.com/r/ethereum/solc/tags/)有发布的docker竞相的（dockerized ）solc 。
++ [这里](https://hub.docker.com/r/ethereum/solc/tags/)有发布的docker镜像的（dockerized ）solc 。
 + 本地可用的 solc 路径
 
 
